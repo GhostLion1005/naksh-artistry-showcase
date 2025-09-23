@@ -100,8 +100,8 @@ const HeroSection = () => {
             </Button>
           </motion.div>
 
-          {/* Scroll Indicator */}
-          <motion.div
+           {/* Scroll Indicator */}
+          {/* <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: 1, delay: 1.2 }}
@@ -116,10 +116,10 @@ const HeroSection = () => {
                 animate={{ y: [0, 12, 0] }}
                 transition={{ duration: 2, repeat: Infinity }}
                 className="w-1 h-3 bg-muted-foreground rounded-full mt-2"
-              />
+              /> 
             </motion.div>
           </motion.div>
-        </motion.div>
+        </motion.div> */}
       </div>
     </section>
   );
