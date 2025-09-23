@@ -12,7 +12,7 @@ const testimonials = [
     rating: 5,
     text: "The Nikkah certificate from Naksh by Noor was absolutely stunning! The calligraphy was exquisite and the gold detailing made it feel so special. Perfect for our wedding ceremony. ✨",
     image: null,
-    date: "March 2024"
+    date: "September 2025"
   },
   {
     id: "2",
@@ -21,7 +21,7 @@ const testimonials = [
     rating: 5,
     text: "I ordered custom Islamic wall art and I'm blown away by the quality. The attention to detail is incredible and it looks perfect in our home. Highly recommend! 🏠💕",
     image: null,
-    date: "February 2024"
+    date: "September 2025"
   },
   {
     id: "3",
@@ -30,7 +30,7 @@ const testimonials = [
     rating: 5,
     text: "Amazing service from start to finish! The team was so patient with all my questions and revisions. The final wedding invitation design exceeded all expectations. 💍",
     image: null,
-    date: "January 2024"
+    date: "January 2025"
   },
   {
     id: "4",
@@ -39,7 +39,7 @@ const testimonials = [
     rating: 5,
     text: "Beautiful work! I've ordered multiple pieces for gifts and each one has been perfect. The quality is outstanding and delivery was quick. Will definitely order again! 🎁",
     image: null,
-    date: "December 2023"
+    date: "December 2024"
   },
   {
     id: "5",
@@ -48,7 +48,7 @@ const testimonials = [
     rating: 5,
     text: "The custom Ayatul Kursi frame is gorgeous! The calligraphy is so elegant and the gold accents make it truly special. It's the centerpiece of our living room now. 🤲",
     image: null,
-    date: "November 2023"
+    date: "November 2024"
   },
   {
     id: "6",
@@ -57,7 +57,7 @@ const testimonials = [
     rating: 5,
     text: "Exceptional craftsmanship! Every detail was perfect from the initial consultation to the final delivery. The team really cares about their work and it shows. ⭐",
     image: null,
-    date: "October 2023"
+    date: "May 2025"
   }
 ];
 
@@ -185,7 +185,7 @@ const Testimonials = () => {
                 className="btn-gold"
               >
                 <a
-                  href="https://wa.me/+917983142083"
+                  href="https://www.instagram.com/nakshbynoor/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -200,7 +200,7 @@ const Testimonials = () => {
                 className="btn-outline-gold"
               >
                 <a
-                  href="https://www.instagram.com/nakshbynoor/"
+                  href="https://www.instagram.com/stories/highlights/18148985131350137/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center"

@@ -61,16 +61,16 @@ const HeroSection = () => {
           >
             Handcrafting Nikah Certificates & more with love and devotion.
             <br />
-            <span className="text-primary">📍 Islamabad, Pakistan | Shipping Worldwide</span>
+            <span className="text-primary">📍 Islamabad, Pakistan | Shipping Worldwide 🌎 </span>
           </motion.p>
 
           {/* CTA Buttons */}
-          <motion.div
+          {/* <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.8 }}
             className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-8"
-          >
+          > */}
             <Button
               onClick={scrollToInstagram}
               variant="outline"
