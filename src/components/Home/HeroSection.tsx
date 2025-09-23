@@ -65,12 +65,12 @@ const HeroSection = () => {
           </motion.p>
 
           {/* CTA Buttons */}
-           <motion.div
+          <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.8 }}
             className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-8"
-          >
+          > 
             <Button
               onClick={scrollToInstagram}
               variant="outline"
@@ -100,10 +100,10 @@ const HeroSection = () => {
             </Button>
           </motion.div>
 
-           {/* Scroll Indicator */}
-          {/* <motion.div
+          {/* Scroll Indicator */}
+          <motion.div
             initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
+            animate={{ opacity: 0 }}
             transition={{ duration: 1, delay: 1.2 }}
             className="absolute bottom-8 left-1/2 transform -translate-x-1/2"
           >
@@ -116,10 +116,10 @@ const HeroSection = () => {
                 animate={{ y: [0, 12, 0] }}
                 transition={{ duration: 2, repeat: Infinity }}
                 className="w-1 h-3 bg-muted-foreground rounded-full mt-2"
-              /> 
+              />
             </motion.div>
           </motion.div>
-        </motion.div> */}
+        </motion.div>
       </div>
     </section>
   );
