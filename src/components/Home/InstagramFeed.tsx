@@ -8,14 +8,14 @@ import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@/components/u
 const mockPosts = [
   {
     id: "1",
-    image: "/src/assets/nikkah-certificate-sample.jpg",
+    image: "/src/assets/ab.jpg",
     caption: "Beautiful Nikkah certificate with traditional calligraphy and gold accents ✨ #NikkahhCertificate #IslamicArt #Calligraphy",
     likes: 156,
     url: "https://www.instagram.com/nakshbynoor/reel/DD4pOxSthPc/"
   },
   {
     id: "2", 
-    image: "/src/assets/artist-workspace.jpg",
+    image: "/src/assets/ab2.jpg",
     caption: "Behind the scenes in our studio 🎨 Every piece is crafted with love and attention to detail #HandmadeArt #ArtStudio",
     likes: 89,
     url: "https://www.instagram.com/nakshbynoor/p/DOqmQBlDPIj/"
