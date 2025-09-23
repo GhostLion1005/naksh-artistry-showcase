@@ -183,7 +183,7 @@ const About = () => {
               className="btn-gold"
             >
               <a
-                href="https://wa.me/+917983142083"
+                href="https://www.instagram.com/nakshbynoor/"
                 target="_blank"
                 rel="noopener noreferrer"
               >

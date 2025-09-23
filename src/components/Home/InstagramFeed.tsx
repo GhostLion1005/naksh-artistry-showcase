@@ -4,6 +4,11 @@ import { Instagram, ExternalLink, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@/components/ui/dialog";
 import ab1 from "@/assets/ab.jpg";
+import ab2 from "@/assets/ab2.jpg";
+import ab3 from "@/assets/ab3.jpg";
+import ab4 from "@/assets/ab4.jpg";
+import ab5 from "@/assets/ab5.jpg";
+import ab6 from "@/assets/ab6.jpg";
 
 // Mock Instagram posts - Replace with real API integration later
 const mockPosts = [
@@ -16,35 +21,35 @@ const mockPosts = [
   },
   {
     id: "2", 
-    image: "/src/assets/ab2.jpg",
+    image: ab2,
     caption: "Behind the scenes in our studio 🎨 Every piece is crafted with love and attention to detail #HandmadeArt #ArtStudio",
     likes: 89,
     url: "https://www.instagram.com/nakshbynoor/p/DOqmQBlDPIj/"
   },
   {
     id: "3",
-    image: "/src/assets/nikkah-certificate-sample.jpg", 
+    image: ab3, 
     caption: "Custom wedding invitation with intricate Islamic patterns 💫 #WeddingInvitation #IslamicDesign",
     likes: 203,
     url: "https://www.instagram.com/nakshbynoor/reel/DOd8aMMDKvQ/"
   },
   {
     id: "4",
-    image: "/src/assets/artist-workspace.jpg",
+    image: ab4,
     caption: "The art of traditional calligraphy - preserving heritage through each stroke ✍️ #Calligraphy #Heritage",
     likes: 134,
     url: "https://www.instagram.com/nakshbynoor/p/DOV7vLDDAah/"
   },
   {
     id: "5",
-    image: "/src/assets/nikkah-certificate-sample.jpg",
+    image: ab5,
     caption: "Elegant frame design with Ayatul Kursi 🤍 Available for custom orders #IslamicArt #AyatulKursi",
     likes: 178,
     url: "https://www.instagram.com/nakshbynoor/reel/DN8fDElDC-Y/"
   },
   {
     id: "6",
-    image: "/src/assets/artist-workspace.jpg",
+    image: ab6,
     caption: "Gold leaf details make every piece shine ✨ #LuxuryArt #GoldLeaf #Handcrafted",
     likes: 92,
     url: "https://www.instagram.com/nakshbynoor/p/DLISe_FNF-C/"
