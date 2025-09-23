@@ -3,12 +3,13 @@ import { motion } from "framer-motion";
 import { Instagram, ExternalLink, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from "@/components/ui/dialog";
+import ab1 from "@/assets/ab.jpg";
 
 // Mock Instagram posts - Replace with real API integration later
 const mockPosts = [
   {
     id: "1",
-    image: "/src/assets/ab.jpg",
+    image: ab1,
     caption: "Beautiful Nikkah certificate with traditional calligraphy and gold accents ✨ #NikkahhCertificate #IslamicArt #Calligraphy",
     likes: 156,
     url: "https://www.instagram.com/nakshbynoor/reel/DD4pOxSthPc/"
