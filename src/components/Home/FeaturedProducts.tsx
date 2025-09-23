@@ -2,9 +2,10 @@ import { motion } from "framer-motion";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { MessageCircle } from "lucide-react";
-import nikkahhCert from "@/assets/nikkah-certificate-sample.jpg";
-import workspace from "@/assets/artist-workspace.jpg";
-
+import nikkahhCert from "@/assets/ab7.jpg";
+import workspace from "@/assets/ab8.jpg";
+import ab9 from "@/assets/ab9.jpg";
+import ab10 from "@/assets/ab10.jpg";
 const featuredProducts = [
   {
     id: "1",
@@ -24,14 +25,14 @@ const featuredProducts = [
     id: "3",
     title: "Wedding Invitations", 
     description: "Luxurious wedding invitations with intricate Islamic designs and calligraphy.",
-    image: nikkahhCert,
+    image: ab10,
     features: ["Unique designs", "RSVP cards included", "Envelope addressing", "Fast delivery"]
   },
   {
     id: "4",
     title: "Custom Commissions",
     description: "Bespoke Islamic art pieces created specifically for your vision and space.",
-    image: workspace,
+    image: ab9,
     features: ["Consultation included", "Original artwork", "Multiple revisions", "Certificate of authenticity"]
   }
 ];

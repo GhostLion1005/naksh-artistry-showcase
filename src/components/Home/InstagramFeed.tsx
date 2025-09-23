@@ -29,28 +29,28 @@ const mockPosts = [
   {
     id: "3",
     image: ab3, 
-    caption: "Custom wedding invitation with intricate Islamic patterns 💫 #WeddingInvitation #IslamicDesign",
+    caption: "Custom wedding nikahnamahs with intricate Islamic patterns 💫 #WeddingInvitation #IslamicDesign",
     likes: 203,
     url: "https://www.instagram.com/nakshbynoor/reel/DOd8aMMDKvQ/"
   },
   {
     id: "4",
-    image: ab4,
+    image: ab5,
     caption: "The art of traditional calligraphy - preserving heritage through each stroke ✍️ #Calligraphy #Heritage",
     likes: 134,
     url: "https://www.instagram.com/nakshbynoor/p/DOV7vLDDAah/"
   },
   {
     id: "5",
-    image: ab5,
-    caption: "Elegant frame design with Ayatul Kursi 🤍 Available for custom orders #IslamicArt #AyatulKursi",
+    image: ab6,
+    caption: "Elegant frame design with customised hand-painted Nikah Namah 🤍 Available for custom orders #IslamicArt #AyatulKursi",
     likes: 178,
     url: "https://www.instagram.com/nakshbynoor/reel/DN8fDElDC-Y/"
   },
   {
     id: "6",
-    image: ab6,
-    caption: "Gold leaf details make every piece shine ✨ #LuxuryArt #GoldLeaf #Handcrafted",
+    image: ab4,
+    caption: "Customised, hand-painted Nikkah certificate for the beautiful @zarnabshahadat  ✨ #LuxuryArt #GoldLeaf #Handcrafted",
     likes: 92,
     url: "https://www.instagram.com/nakshbynoor/p/DLISe_FNF-C/"
   }
