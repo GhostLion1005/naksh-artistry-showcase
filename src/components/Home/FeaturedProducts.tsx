@@ -5,7 +5,7 @@ import { MessageCircle } from "lucide-react";
 import nikkahhCert from "@/assets/ab7.jpg";
 import workspace from "@/assets/ab8.jpg";
 import ab9 from "@/assets/ab9.jpg";
-import ab10 from "@/assets/ab10.jpg";
+import ab10 from "@/assets/ab10.png";
 const featuredProducts = [
   {
     id: "1",
