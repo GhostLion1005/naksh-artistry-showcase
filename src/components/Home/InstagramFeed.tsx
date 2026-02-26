@@ -16,21 +16,21 @@ const mockPosts = [
     id: "1",
     image: ab1,
     caption: "Beautiful Nikkah certificate with traditional calligraphy and gold accents ✨ #NikkahhCertificate #IslamicArt #Calligraphy",
-    likes: 156,
+    likes: 1295,
     url: "https://www.instagram.com/nakshbynoor/reel/DD4pOxSthPc/"
   },
   {
     id: "2", 
     image: ab2,
     caption: "Behind the scenes in our studio 🎨 Every piece is crafted with love and attention to detail #HandmadeArt #ArtStudio",
-    likes: 89,
+    likes: 121,
     url: "https://www.instagram.com/nakshbynoor/p/DOqmQBlDPIj/"
   },
   {
     id: "3",
     image: ab3, 
     caption: "Custom wedding nikahnamahs with intricate Islamic patterns 💫 #WeddingInvitation #IslamicDesign",
-    likes: 203,
+    likes: 987,
     url: "https://www.instagram.com/nakshbynoor/reel/DOd8aMMDKvQ/"
   },
   {
@@ -44,14 +44,14 @@ const mockPosts = [
     id: "5",
     image: ab6,
     caption: "Elegant frame design with customised hand-painted Nikah Namah 🤍 Available for custom orders #IslamicArt #AyatulKursi",
-    likes: 178,
+    likes: 60,
     url: "https://www.instagram.com/nakshbynoor/reel/DN8fDElDC-Y/"
   },
   {
     id: "6",
     image: ab4,
     caption: "Customised, hand-painted Nikkah certificate for the beautiful @zarnabshahadat  ✨ #LuxuryArt #GoldLeaf #Handcrafted",
-    likes: 92,
+    likes: 987,
     url: "https://www.instagram.com/nakshbynoor/p/DLISe_FNF-C/"
   }
 ];
