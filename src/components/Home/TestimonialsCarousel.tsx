@@ -7,38 +7,38 @@ import { Button } from "@/components/ui/button";
 const testimonials = [
   {
     id: 1,
-    name: "Fatima A.",
+    name: "Fatima Ali",
     text: "Absolutely stunning work! The Nikkah certificate was beyond my expectations. The calligraphy was beautiful and the gold details made it so elegant. Thank you for making our special day even more memorable! ✨",
     rating: 5,
-    location: "Karachi"
+    location: "Birmingham, UK"
   },
   {
     id: 2,
-    name: "Sarah M.",
+    name: "Sarah",
     text: "I ordered custom Islamic wall art and it's the centerpiece of our home now. The attention to detail and quality is exceptional. Highly recommend Naksh by Noor for anyone looking for authentic Islamic art! 🎨",
     rating: 5,
-    location: "London"
+    location: "Lahore, Pakistan"
   },
   {
     id: 3,
-    name: "Ahmed K.",
+    name: "Ahmed Khattab",
     text: "Professional service and beautiful artwork. The wedding invitations were exactly what we wanted - elegant, traditional, and unique. Great communication throughout the process. Will definitely order again! 💫",
     rating: 5,
-    location: "Toronto"
+    location: "Toronto, Canada"
   },
   {
     id: 4,
-    name: "Aisha R.",
+    name: "Aisha Riaz",
     text: "The custom Ayatul Kursi piece is gorgeous! Perfect for our new home. The craftsmanship is top-notch and shipping was fast. Thank you for creating such beautiful Islamic art! 🤍",
     rating: 5,
-    location: "Dubai"
+    location: "Dubai, UAE"
   },
   {
     id: 5,
-    name: "Zainab H.",
+    name: "Zainab Huda",
     text: "Amazing experience from start to finish. The artist really understood my vision and created something truly special. The quality exceeded my expectations. Highly recommended! 🌟",
     rating: 5,
-    location: "Melbourne"
+    location: "Melbourne, Australia"
   }
 ];
 
